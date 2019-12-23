@@ -1,0 +1,28 @@
+{
+  "name": "logicka",
+  "version": "1.0.0",
+  "description": "Multifunctional graph database with weighed relations between nodes, written in Node JS.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kockarevicivan/logicka.git"
+  },
+  "keywords": [
+    "logicka",
+    "graph",
+    "weighed",
+    "weights",
+    "node",
+    "database",
+    "db"
+  ],
+  "author": "Ivan Kockarevic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kockarevicivan/logicka/issues"
+  },
+  "homepage": "https://github.com/kockarevicivan/logicka#readme"
+}
